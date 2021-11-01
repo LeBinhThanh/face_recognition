@@ -6,7 +6,7 @@ conda activate face_recognition
 
 pip install -r requirements.txt
 
-#add photo to data/people_data
+#add photos to data/people_data
 
 python save_face_encoding.py
 
